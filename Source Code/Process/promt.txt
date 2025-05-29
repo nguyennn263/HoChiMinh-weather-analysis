@@ -1,0 +1,25 @@
+Exploring data (often interleaved with preprocessing)
+- How many rows and how many columns?
+- What is the meaning of each row?
+- Are there duplicated rows?
+- What is the meaning of each column?
+- What is the current data type of each column? Are there columns having inappropriate data types?
+- With each numerical column, how are values distributed?
+- What is the percentage of missing values?
+- Min? max? Are they abnormal?
+- With each categorical column, how are values distributed?
+- What is the percentage of missing values?
+- How many different values? Show a few
+- Are they abnormal?
+
+
+With each question:
+- Does it need to have preprocessing step, and
+if yes, how does your group preprocess?
+  - Text: sketch steps clearly so that readers can understand how your group preprocesses even without reading code
+  - Code: implement sketched steps. Your group should also try to write code clearly (choose good variable names, comment where should be commented, don’t let a line too long)
+
+- How does your group analyze data to answer
+the question?
+  - Text: similar to above
+  - Code: similar to above
